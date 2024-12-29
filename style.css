@@ -1,0 +1,66 @@
+.header{
+    
+    width:1100px;
+    height:600px;
+    border-radius: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_1{
+    background-image: linear-gradient(blue,white,blue);
+    height:500px;
+      width:100%;
+     display:flex;
+     padding-top: 30px;
+     padding-left: 100px;
+     border-radius: 20px;
+}
+
+
+#left{
+    background-image:linear-gradient(white,rgb(12, 234, 12),white);
+    height:400px;
+    padding-left: 40px;
+    width:35%;
+    padding-top:40px;
+    border-radius: 20px;
+}
+
+#right{
+    background-image:linear-gradient(white,rgb(161, 159, 159),white);
+    height:439px;
+    width:50%;
+    display:flex;
+    margin-right: 30px;
+    border-radius: 20px;
+
+}
+#right1{
+    padding-left:30px;
+    padding-top:40px;
+    
+}
+input{
+    border-radius: 20px;
+    width:200px;
+    height:25px;
+    border:1px solid white;
+    padding-left: 15px;
+}
+label{
+    padding:20px;
+    font-size: 18px;
+    color:rgb(220, 80, 20);
+    font-weight: bold;
+    font-family: cursive;
+}
+button{
+    height:40px;
+    width:150px;
+    background-color:rgb(223, 44, 223);
+    color:azure;
+    border:1px solid rgb(223, 44, 223);
+    border-radius: 20px;
+}
